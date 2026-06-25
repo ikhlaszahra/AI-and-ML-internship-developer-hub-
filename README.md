@@ -1,6 +1,7 @@
 # DevelopersHub Corporation — AI/ML Engineering Internship
 
-**Intern Name:** Your Name Here  
+**Intern Name:** Syeda Ikhlas Zahra
+**Student ID:** DHC-5534
 **Due Date:** 26th June, 2026  
 **Status:** All 6 Tasks Completed ✓
 
