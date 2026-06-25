@@ -183,27 +183,3 @@ DevelopersHub_AIML_Internship/
 | `FileNotFoundError: heart.csv` | Download from Kaggle; place in correct folder |
 | `HuggingFace API Error 401` | Generate new token from huggingface.co/settings/tokens |
 | `CUDA out of memory` | Use Google Colab for Task 5 |
-
----
-
-## Submission Checklist
-
-- [ ] All 6 notebooks run top-to-bottom without errors
-- [ ] Each notebook has a summary markdown cell
-- [ ] heart.csv downloaded to same folder (for task 3)
-- [ ] train.csv downloaded to same folder (for task 6)
-- [ ] Task 4 has valid Hugging Face API token
-- [ ] Task 5 tested in Google Colab with GPU
-- [ ] Code is clean with comments
-- [ ] All notebooks committed to GitHub
-- [ ] GitHub link submitted to Google Classroom
-
----
-
-## Deadline
-
-**Deadline:** 26th June, 2026
-
----
-
-*DevelopersHub Corporation — AI/ML Internship Program*
